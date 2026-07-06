@@ -24,7 +24,9 @@ Their current workaround is raw ChatGPT: they **re-explain their business every 
 
 ## 3. Success metrics & business impact
 
-The v1 wedge is a free, **no-login positioning capture**: drop your URL + 2 competitor URLs → get a framework-mapped read of your positioning that surfaces an "I've never articulated this about my firm" insight. It manufactures demand while producing the brain's intake material.
+**The full vision:** a consultant drops their URL once and the brain generates every sales asset they need — one-pagers, web copy, ad sets, LinkedIn posts, cold emails — each personalized to a specific buyer persona and consistent with their positioning, with no re-entry of context. Every generator reads the same brain, so output compounds instead of resetting.
+
+**v1 tests the foundation of that thesis.** The entry point is a free, **no-login positioning capture**: drop your URL + 2 competitor URLs → get a framework-mapped read that surfaces an "I've never articulated this about my firm" insight. Save it, and it becomes the brain every generator reads from. The first generator — a case-study one-pager — is the proof of concept; the rest are demand-gated behind in-product votes.
 
 | Gate | Metric | Target |
 |---|---|---|
