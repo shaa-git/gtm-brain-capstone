@@ -12,10 +12,7 @@ Solopreneurs and boutique consultancies are excellent at their craft and weak at
 
 Their current workaround is raw ChatGPT: they **re-explain their business every session** and still get generic output, because a chat thread has no durable, structured model of their go-to-market.
 
-Two forcing functions made this the moment to build:
-
-1. **Diagnostic evidence over enthusiasm.** My previous agent suite (built on Agent.ai; one agent used 17,000+ times) showed *interest, not demand* — light repeat usage, no payments, nobody built a workflow around it. A YC-style office-hours interrogation of the idea surfaced the real observed pain: the re-explain-your-business-every-session loop.
-2. **Platform shutdown.** Agent.ai (the runtime for that suite) is shutting down. Rather than a like-for-like migration, the agents were cannibalized as raw material for a more coherent product. The original migration plan was formally superseded — the decision log records when and why.
+**Diagnostic evidence over enthusiasm.** A prior suite of GTM agents — including a persona builder with 17,000+ uses — proved consultants care about getting their positioning right. But the agents weren't actionable: users got a read and had nowhere to go with it. They couldn't generate content from it, the analysis didn't persist between sessions, and they were back to re-explaining their business to a chatbot the next time they needed an asset. A YC-style interrogation of the idea confirmed the gap: users needed a durable, editable GTM model that generators could read — not more one-shot analysis. The prior agents were cannibalized as raw material; their persona and positioning logic became the brain's intake pipeline.
 
 **The bet:** users don't need more content tools. They need a **shared, persistent, editable GTM brain** that agents read from and write back to — so every generated asset is on-message and on-persona without re-explaining anything. Persistence alone is not a moat (ChatGPT has memory); the moat is **structure plus a GTM opinion** — positioning mapped to real product-marketing frameworks (April Dunford's *Obviously Awesome*) that teaches users something about their own business.
 

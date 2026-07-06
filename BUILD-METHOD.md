@@ -55,7 +55,7 @@ Real-tester feedback closed the same loop from the other side: an early one-page
 
 ## Memory & the Rethink Gate
 
-A `memory.md` decision log records every repo-level decision with date and reason. The most consequential entry: the build was **paused at a planned "Rethink Gate"** after infrastructure was up, the original like-for-like migration plan was formally superseded (interest-vs-demand diagnosis), and the project was re-scoped around the GTM Brain. The superseded plan is still in the repo, marked as such — the paper trail is the point.
+A `memory.md` decision log records every repo-level decision with date and reason. The most consequential entry: the build was **paused at a planned "Rethink Gate"** after infrastructure was up. The diagnostic lens confirmed that the prior agent work (persona builder, 17k uses) produced *analysis* users couldn't act on — the job-to-be-done was generating content, not getting a read. The project was re-scoped around GTM Brain: a persistent brain that generators read from. The prior plan is still in the repo, marked as superseded — the paper trail is the point.
 
 Plans themselves go through an **iterate-review loop**: each implementation phase that touches production surfaces gets an external AI code review pass before merge, with checkpoints tracked in the plan doc.
 
